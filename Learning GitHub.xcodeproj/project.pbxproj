@@ -14,6 +14,7 @@
 		5BCEC60F288C7B3E00659D5C /* Learning_GitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCEC60E288C7B3E00659D5C /* Learning_GitHubTests.swift */; };
 		5BCEC619288C7B3E00659D5C /* Learning_GitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCEC618288C7B3E00659D5C /* Learning_GitHubUITests.swift */; };
 		5BCEC61B288C7B3E00659D5C /* Learning_GitHubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCEC61A288C7B3E00659D5C /* Learning_GitHubUITestsLaunchTests.swift */; };
+		5BCEC628288C7F5900659D5C /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCEC627288C7F5900659D5C /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5BCEC614288C7B3E00659D5C /* Learning GitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Learning GitHubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BCEC618288C7B3E00659D5C /* Learning_GitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learning_GitHubUITests.swift; sourceTree = "<group>"; };
 		5BCEC61A288C7B3E00659D5C /* Learning_GitHubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learning_GitHubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BCEC627288C7F5900659D5C /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				5BCEC5FF288C7B3D00659D5C /* ContentView.swift */,
 				5BCEC601288C7B3E00659D5C /* Assets.xcassets */,
 				5BCEC603288C7B3E00659D5C /* Preview Content */,
+				5BCEC627288C7F5900659D5C /* MyModel.swift */,
 			);
 			path = "Learning GitHub";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BCEC600288C7B3D00659D5C /* ContentView.swift in Sources */,
+				5BCEC628288C7F5900659D5C /* MyModel.swift in Sources */,
 				5BCEC5FE288C7B3D00659D5C /* Learning_GitHubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
